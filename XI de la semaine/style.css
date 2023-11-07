@@ -1,0 +1,57 @@
+body {
+    background-color: #091c3e;
+
+}
+
+#ligue {
+    width: 70px;
+    height: 90px;
+}
+
+h1 {
+    color: #cdfb0a;
+
+}
+
+h5 {
+    color: #cdfb0a;
+
+}
+
+h2 {
+    color: #cdfb0a;
+    
+}
+
+h6 {
+    color: aliceblue;
+}
+
+ul {
+    color: aliceblue;
+}
+
+
+p{
+    color: aliceblue;
+}
+
+a{
+    color: aliceblue;
+} 
+
+
+.iii{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+ 
+#bayo{
+    width: 50%;
+    height:50%;
+ }
+
+ .equipe{
+    
+ }

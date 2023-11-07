@@ -1,0 +1,166 @@
+body {
+    background-color: #091c3e;
+
+}
+
+#ligue {
+    width: 70px;
+    height: 90px;
+}
+
+.carte {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 150px;
+    margin-right: 150px;
+    text-align: center;
+}
+
+
+h1 {
+    color: #cdfb0a;
+
+}
+
+h2 {
+    color: #cdfb0a;
+    
+}
+
+
+
+h6 {
+    color: aliceblue;
+}
+
+ul {
+    color: aliceblue;
+}
+
+.blanc {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+
+
+.banniere {
+    margin-left: 40px;
+}
+
+p{
+    color: aliceblue;
+}
+
+a{
+    color: aliceblue;
+} 
+#titre{
+    margin-left: 20px;
+}
+
+.iii{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+}
+
+#monaco{
+    background-color: #db0632;
+    color:aliceblue;
+}
+
+#clermont{
+   background-color: #002d6a;
+   color: aliceblue;
+}
+
+#lorient{
+    background-color: #FF4A00;
+    color: aliceblue;
+}
+
+#metz{
+    background-color: #ffffff;
+    color: black;
+}
+
+#nantes{
+    background-color: #00a558;
+    color: aliceblue;
+
+}
+
+#havre{
+    background-color: #8cc2e6;
+    color: aliceblue;
+}
+
+#losc{
+    background-color: #e41b13;
+    color:aliceblue
+}
+
+#montpellier{
+    background-color: #07195E;
+    color: aliceblue;
+}
+
+#nice{
+    background-color: #D52027;
+    color: aliceblue;
+}
+
+#om{
+    background-color:#ffffff;
+    color: black;
+}
+
+#ol{
+    background-color: #0F23AA;
+    color: aliceblue;
+}
+
+#psg{
+    background-color:white;
+    color: black ;
+}
+
+#lens{
+    background-color: #f6d410;
+    color: aliceblue;
+}
+
+#strasbourg{
+    background-color: #009ee2;
+    color: aliceblue;
+}
+
+#brest{
+    background-color: #e41a25;
+    color: aliceblue;
+}
+
+#reims{
+    background-color: white;
+    color: black;
+}
+
+#renne{
+    background-color: #d82626;
+    color: aliceblue;
+}
+
+#toulouse{
+    background-color: #3e2b57;
+    color: aliceblue;
+}
